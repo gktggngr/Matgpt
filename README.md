@@ -1,0 +1,2 @@
+# MatGPT
+Matematikle eğlenin!
